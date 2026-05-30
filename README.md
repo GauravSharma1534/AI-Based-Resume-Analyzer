@@ -375,8 +375,75 @@ Rating            : Good
 ```
 
 ---
+#  Live Demo & Repository
 
-👉 [Live Demo](file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html)
+###  Live Web Application
+
+Experience the AI-Based Resume Analyzer directly in your browser:
+
+👉 **Live Demo:**
+https://ai-based-resume-analyzer-23bda70050.netlify.app/
+
+---
+
+###  GitHub Repository
+
+Explore the complete source code, documentation, project report, screenshots, and implementation details:
+
+👉 **GitHub Repository:**
+https://github.com/GauravSharma1534/AI-Based-Resume-Analyzer
+
+---
+
+###  Project Demonstration
+
+The repository includes:
+
+* Complete Project Demonstration Video
+* Browser-Based Demo
+* ATS Score Analysis Demo
+* Resume Parsing Workflow
+* Interactive HTML Report
+
+---
+
+###  Why This Project?
+
+Traditional resume screening is slow and often inconsistent. This project uses Natural Language Processing (NLP) and Machine Learning techniques to automate resume analysis and ATS scoring.
+
+Key capabilities include:
+
+✅ Resume Parsing (PDF, DOCX, TXT)
+
+✅ ATS Compatibility Scoring
+
+✅ TF-IDF + Cosine Similarity Analysis
+
+✅ Missing Keyword Detection
+
+✅ Resume Improvement Suggestions
+
+✅ Batch Resume Analysis
+
+✅ JSON Report Generation
+
+✅ Recruiter-Friendly Output Dashboard
+
+---
+
+###  Quick Access
+
+| Resource          | Link                                                         |
+| ----------------- | ------------------------------------------------------------ |
+| Live Demo         | https://ai-based-resume-analyzer-23bda70050.netlify.app/     |
+| GitHub Repository | https://github.com/GauravSharma1534/AI-Based-Resume-Analyzer |
+| Project Report    | Available in Repository                                      |
+| Presentation      | Available in Repository                                      |
+| Screenshots       | Available in Repository                                      |
+| Demo Videos       | Available in Repository                                      |
+
+---
+
 
 #  Performance Highlights
 
