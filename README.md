@@ -1,4 +1,4 @@
-      #  AI-Based Resume Analyzer
+#  AI-Based Resume Analyzer
 
 
 #  Project Overview
@@ -376,7 +376,7 @@ Rating            : Good
 
 ---
 
-# Demo link-** file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html **
+# Demo link- **file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html**
 
 #  Performance Highlights
 
