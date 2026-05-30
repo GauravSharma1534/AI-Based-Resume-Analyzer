@@ -376,7 +376,9 @@ Rating            : Good
 
 ---
 
-# Demo link- **file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html**
+##  Live Demo
+
+👉 file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html
 
 #  Performance Highlights
 
