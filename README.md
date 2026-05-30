@@ -1,4 +1,4 @@
-#  AI-Based Resume Analyzer
+      #  AI-Based Resume Analyzer
 
 
 #  Project Overview
@@ -46,7 +46,7 @@ The AI-Based Resume Analyzer addresses these challenges through automated resume
 
 #  Key Features
 
-## 📄 Resume Parsing
+##  Resume Parsing
 
 Supports multiple file formats:
 
@@ -163,7 +163,7 @@ Recommendations & Reports
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 | Technology   | Purpose                |
 | ------------ | ---------------------- |
@@ -310,7 +310,7 @@ Analyzes multiple resumes simultaneously.
 
 ---
 
-# 🛠️ Installation
+#  Installation
 
 ## Step 1: Clone Repository
 
@@ -339,7 +339,7 @@ python code/resume_analyzer.py
 
 ---
 
-# 📋 Menu Options
+#  Menu Options
 
 ```text
 1. Analyze Resume
@@ -376,7 +376,7 @@ Rating            : Good
 
 ---
 
-# Demo link-**file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html**
+# Demo link-** file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html **
 
 #  Performance Highlights
 
