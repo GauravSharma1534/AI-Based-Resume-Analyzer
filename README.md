@@ -272,7 +272,7 @@ This provides a browser-based demonstration of the generated analysis report.
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 The repository contains screenshots demonstrating:
 
@@ -378,7 +378,7 @@ Rating            : Good
 
 ##  Live Demo
 
-👉 **file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html**
+👉 ***file:///C:/Users/gaura/Downloads/Resume_Analyzer_FINAL%20(1)/resume_project/report%20web.html***
 
 #  Performance Highlights
 
